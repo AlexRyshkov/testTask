@@ -1,0 +1,44 @@
+.col-fill-height {
+    height: calc(100vh - 120px);
+}
+
+.template-table {
+    height: 50%;
+    max-height: 50%;
+    overflow-y: scroll;
+}
+
+.template-validation-errors {
+    margin-top: 20px !important;
+}
+
+a {
+    color: #0366d6;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.status-badge {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.status-badge:hover {
+    cursor: pointer;
+}
+
+.remove-status:hover {
+    color: red;
+}
+
+
+
+
